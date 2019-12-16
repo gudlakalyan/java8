@@ -6,6 +6,7 @@ interface b {
 	default int hello() {
 		System.out.println("SYSO ");
 		System.out.println("SYSO 2");
+		System.out.println("SYSO 3333");
 		return 6;
 	}
 	
