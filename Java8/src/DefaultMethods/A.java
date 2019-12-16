@@ -4,6 +4,7 @@ interface b {
 	void show();
 
 	default int hello() {
+		System.out.println("SYSO ");
 		return 6;
 	}
 	
